@@ -1,0 +1,3 @@
+google-cloud-firestore
+firestore
+firebase_admin
